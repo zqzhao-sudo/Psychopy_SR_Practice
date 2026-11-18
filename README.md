@@ -1,7 +1,7 @@
 # PsychoPy_SentenceRating_Practice
 
 
-[文字版教程](Tutorial/PsychoPy_SentenceRating_Practice.md)。
+[文字版教程](Tutorial/PsychoPy_SentenceRating_Practice.md)
 
 
 ## 单独下载

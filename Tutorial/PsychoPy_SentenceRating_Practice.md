@@ -1,18 +1,5 @@
-# PsychoPy 句子评分任务练习教程
+# PsychoPy Sentence Rating
 
-本教程包含 16 个试次的示例条件表，以及中文字体。按下文步骤在 PsychoPy Builder 中搭建实验；预制代码中标为“需要填写的部分”需要替换为你自己的组件名、循环名和文件名。
-
-## 下载练习材料
-
-- [一键下载完整练习包（ZIP）](https://github.com/zqzhao-sudo/Psychopy_SentenceRating_Practice/releases/download/v1.0/Psychopy_SentenceRating_Practice.zip)
-- [下载条件表 psychopy_demo_conditions.csv](https://github.com/zqzhao-sudo/Psychopy_SentenceRating_Practice/releases/download/v1.0/psychopy_demo_conditions.csv)
-- [下载仿宋字体 FangSong_GB2312.ttf](https://github.com/zqzhao-sudo/Psychopy_SentenceRating_Practice/releases/download/v1.0/FangSong_GB2312.ttf)
-- [下载 Noto Sans SC 字体](https://github.com/zqzhao-sudo/Psychopy_SentenceRating_Practice/releases/download/v1.0/Noto_Sans_SC.truetype)
-- [下载本教程 Markdown 文件](https://github.com/zqzhao-sudo/Psychopy_SentenceRating_Practice/releases/download/v1.0/PsychoPy_SentenceRating_Practice.md)
-
-请先解压 ZIP。条件表放到你自己的实验项目根目录；字体按第 3.3 节说明安装。下载 `.truetype` 字体后如果系统无法识别，可将扩展名改为 `.ttf` 再安装。此练习包提供教程和材料，需要按教程自行搭建 `.psyexp` 实验。
-
----
 
 ## 1. 安装 PsychoPy
 
